@@ -2,9 +2,9 @@
 
 This app makes use of `magick` library to convert any images into pixel art. 
 
-Demo available at  https://yifyan-yusuzech.shinyapps.io/pixcel_art_converter_shiny/ .
+**Demo available at  https://yifyan-yusuzech.shinyapps.io/pixcel_art_converter_shiny/**
 
-run this app locally:
+**run this app locally:**
 
 ```r
 library(shiny)
