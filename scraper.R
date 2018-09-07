@@ -5,7 +5,6 @@ library(readr)
 library(purrr)
 library(stringr)
 library(ggplot2)
-library(paletter)
 library(dplyr)
 my_driver <- rsDriver(port = 4567L,browser = "chrome")
 

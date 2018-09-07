@@ -1,0 +1,12 @@
+name: pixcel_art_converter_shiny
+title: pixcel_art_converter_shiny
+username:
+account: yifyan-yusuzech
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 426020
+bundleId: 1573774
+url: https://yifyan-yusuzech.shinyapps.io/pixcel_art_converter_shiny/
+when: 1536295508.08649
+asMultiple: FALSE
+asStatic: FALSE
