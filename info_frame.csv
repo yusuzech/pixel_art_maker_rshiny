@@ -1,0 +1,209 @@
+index,palette_name,number_of_color,palette_rank,img_path
+1,Pixelwave,10,205,www/palette/1.png
+2,Holy Light,27,207,www/palette/2.png
+3,Firestorm,9,206,www/palette/3.png
+4,Afternoon,20,208,www/palette/4.png
+5,Warioware DIY,14,193,www/palette/5.png
+6,Tranquil Fantasy 23,23,136,www/palette/6.png
+7,UFO 50,32,156,www/palette/7.png
+8,Fantasy 16,16,114,www/palette/8.png
+9,Westmost 8,8,182,www/palette/9.png
+10,Fantastic 8,8,129,www/palette/10.png
+11,DawnBringer 32,32,12,www/palette/11.png
+12,Vine's Flexible Linear Ramps,38,15,www/palette/12.png
+13,Arq4,4,53,www/palette/13.png
+14,Cabana-64,64,57,www/palette/14.png
+15,ENOS16,16,92,www/palette/15.png
+16,EN4,4,117,www/palette/16.png
+17,Endesga 8,8,125,www/palette/17.png
+18,Turd32,32,127,www/palette/18.png
+19,FuzzyFour,4,138,www/palette/19.png
+20,Endesga 32,32,1,www/palette/20.png
+21,AAP-64,64,2,www/palette/21.png
+22,Zughy 32,32,3,www/palette/22.png
+23,Softmilk 32,32,4,www/palette/23.png
+24,Famicube,64,5,www/palette/24.png
+25,Endesga 36,36,6,www/palette/25.png
+26,Fleja  Master Palette,33,7,www/palette/26.png
+27,Fantasy 24,24,8,www/palette/27.png
+28,Sweetie 16,16,9,www/palette/28.png
+29,Endesga 64,64,10,www/palette/29.png
+30,Endesga 16,16,11,www/palette/30.png
+31,PICO-8,16,13,www/palette/31.png
+32,Lux2K,36,14,www/palette/32.png
+33,2-bit Grayscale,4,16,www/palette/33.png
+34,Kirokaze Gameboy,4,17,www/palette/34.png
+35,Nintendo Entertainment System,55,18,www/palette/35.png
+36,Linear Color Palette Basic,31,19,www/palette/36.png
+37,Nyx8,8,20,www/palette/37.png
+38,Links Awakening (SGB),4,21,www/palette/38.png
+39,Arcade Standard 29,29,22,www/palette/39.png
+40,AAP-Splendor128,128,23,www/palette/40.png
+41,Nature’s Embrace 55,55,24,www/palette/41.png
+42,Nintendo Super Gameboy,4,25,www/palette/42.png
+43,Matriax8c,8,26,www/palette/43.png
+44,Pear36,36,27,www/palette/44.png
+45,Island Joy 16,16,28,www/palette/45.png
+46,BLK 36,36,29,www/palette/46.png
+47,Eroge Copper,16,30,www/palette/47.png
+48,Rosy 42,42,31,www/palette/48.png
+49,DawnBringer's 8 color,8,32,www/palette/49.png
+50,Mort vs Zughy,47,33,www/palette/50.png
+51,GrafxKid Gameboy Pocket (Gray),4,34,www/palette/51.png
+52,DawnBringer 16,16,35,www/palette/52.png
+53,Starmancer,52,36,www/palette/53.png
+54,Unseven,64,37,www/palette/54.png
+55,JMP (Japanese Machine Palette),16,38,www/palette/55.png
+56,Oil 6,6,39,www/palette/56.png
+57,Psygnosia,16,40,www/palette/57.png
+58,Blessing,5,41,www/palette/58.png
+59,DB-ISO22,22,42,www/palette/59.png
+60,Pokemon (SGB),4,43,www/palette/60.png
+61,Nintendo Gameboy (bgb),4,44,www/palette/61.png
+62,Rabbit,7,45,www/palette/62.png
+63,GB Chocolate,4,46,www/palette/63.png
+64,Juice 32,32,47,www/palette/64.png
+65,Mail 24,24,48,www/palette/65.png
+66,20P DX,20,49,www/palette/66.png
+67,darchangel 22,22,50,www/palette/67.png
+68,Megaman V (SGB),4,51,www/palette/68.png
+69,Commodore 64,16,52,www/palette/69.png
+70,AAP-16,16,54,www/palette/70.png
+71,EGA-COM Extended,20,55,www/palette/71.png
+72,Pineapple 32,32,56,www/palette/72.png
+73,Steam Lords,16,57,www/palette/73.png
+74,15P DX,15,59,www/palette/74.png
+75,Today Land Palette,33,60,www/palette/75.png
+76,24P DX,24,61,www/palette/76.png
+77,DinoKnight 16,16,62,www/palette/77.png
+78,Microsoft Windows,16,63,www/palette/78.png
+79,Endesga Soft 16,16,64,www/palette/79.png
+80,Super Plum 21,22,65,www/palette/80.png
+81,CGA Palette 1 (High),4,66,www/palette/81.png
+82,Generic 15,15,67,www/palette/82.png
+83,Mother Earth,22,68,www/palette/83.png
+84,Ice Cream GB,4,69,www/palette/84.png
+85,AAP-Micro12,12,70,www/palette/85.png
+86,Taffy 16,16,71,www/palette/86.png
+87,Nintendo Gameboy (Arne),4,72,www/palette/87.png
+88,Andrew Kensler 54,54,73,www/palette/88.png
+89,Grapefruit,4,74,www/palette/89.png
+90,Mist GB,4,75,www/palette/90.png
+91,Today Land Palette V2,25,75,www/palette/91.png
+92,Generic 8,8,77,www/palette/92.png
+93,6-bit RGB,64,78,www/palette/93.png
+94,Castpixel 16,16,79,www/palette/94.png
+95,Battery24,24,80,www/palette/95.png
+96,MortMort,21,81,www/palette/96.png
+97,SimpleJPC-16,16,82,www/palette/97.png
+98,Arne 32,32,83,www/palette/98.png
+99,Copper Tech,16,83,www/palette/99.png
+100,CGA Palette 2 (High),4,85,www/palette/100.png
+101,Bubblegum 16,16,86,www/palette/101.png
+102,Color Graphics Adapter,16,87,www/palette/102.png
+103,Moonlit-39,39,88,www/palette/103.png
+104,MSX,15,89,www/palette/104.png
+105,Rustic GB,4,90,www/palette/105.png
+106,The Desert Level,11,90,www/palette/106.png
+107,Colodore,16,93,www/palette/107.png
+108,Crimso 11,16,93,www/palette/108.png
+109,CGA Palette 0 (High),4,95,www/palette/109.png
+110,Nintendo Gameboy (Black Zero),4,96,www/palette/110.png
+111,	Andrade Gameboy,4,97,www/palette/111.png
+112,Kirby (SGB),4,97,www/palette/112.png
+113,CPC Boy,32,99,www/palette/113.png
+114,ARQ16,16,100,www/palette/114.png
+115,Night 16,16,100,www/palette/115.png
+116,Peachy Pop 16,16,102,www/palette/116.png
+117,Easter Island,16,102,www/palette/117.png
+118,ZX Spectrum,15,104,www/palette/118.png
+119,YKB-22,22,104,www/palette/119.png
+120,GrafxKid Gameboy Pocket (Green),4,106,www/palette/120.png
+121,Graveyard,21,107,www/palette/121.png
+122,FZT Ethereal 16,12,108,www/palette/122.png
+123,NOPAL-12,16,109,www/palette/123.png
+124,ZyKro-48,48,110,www/palette/124.png
+125,Andrew Kensler 32,32,110,www/palette/125.png
+126,Ink,5,112,www/palette/126.png
+127,JerryPie 22,22,113,www/palette/127.png
+128,JB4,4,115,www/palette/128.png
+129,Metroid II (SGB),4,116,www/palette/129.png
+130,A64,16,118,www/palette/130.png
+131,Amstrad CPC,27,119,www/palette/131.png
+132,PJ Gameboy,4,120,www/palette/132.png
+133,GNOME 32,32,121,www/palette/133.png
+134,atprises 22,22,121,www/palette/134.png
+135,Arne 16,16,123,www/palette/135.png
+136,ZyKro-32,32,124,www/palette/136.png
+137,Nymph GB,4,127,www/palette/137.png
+138,CGArne,16,127,www/palette/138.png
+139,c20,20,130,www/palette/139.png
+140,GB Easy Greens,4,131,www/palette/140.png
+141,eishiya 22,22,131,www/palette/141.png
+142,Macintosh II,16,133,www/palette/142.png
+143,Banana Split,19,133,www/palette/143.png
+144,Fun16,16,135,www/palette/144.png
+145,Commodore VIC-20,16,137,www/palette/145.png
+146,ZXArne 5.2,16,139,www/palette/146.png
+147,Hybrid32,32,140,www/palette/147.png
+148,Froste 16,16,141,www/palette/148.png
+149,CGA Palette 0 (Low),4,141,www/palette/149.png
+150,MSPaint XP,28,143,www/palette/150.png
+151,FlyGuy 16,16,144,www/palette/151.png
+152,Kid Icarus (SGB),4,144,www/palette/152.png
+153,Gameboy Pop,9,146,www/palette/153.png
+154,3-bit RGB,8,146,www/palette/154.png
+155,Still Life,14,148,www/palette/155.png
+156,Super Mario Land 2 (SGB),4,149,www/palette/156.png
+157,Optimum,16,150,www/palette/157.png
+158,Naji 16,16,151,www/palette/158.png
+159,cm16,16,152,www/palette/159.png
+160,Daruda 22,22,153,www/palette/160.png
+161,Humers,25,154,www/palette/161.png
+162,[thUg] 16,16,155,www/palette/162.png
+163,xaiue 22 3,22,156,www/palette/163.png
+164,Andrew Kensler 16,16,159,www/palette/164.png
+165,30 Color,31,159,www/palette/165.png
+166,CGA Palette 1 (Low),4,159,www/palette/166.png
+167,Drazile 16,16,161,www/palette/167.png
+168,/r/Place,16,162,www/palette/168.png
+169,|||| 22,22,162,www/palette/169.png
+170,Wish GB,4,165,www/palette/170.png
+171,Chip16,16,165,www/palette/171.png
+172,bogdanr5000 22,22,165,www/palette/172.png
+173,tuckie 22,22,165,www/palette/173.png
+174,MSPaint Vista,28,168,www/palette/174.png
+175,Apple II,15,168,www/palette/175.png
+176,CD-BAC,16,170,www/palette/176.png
+177,galapogos 22,22,170,www/palette/177.png
+178,Night 11,11,172,www/palette/178.png
+179,CGA Palette 2 (Low),4,172,www/palette/179.png
+180,Code: Melon,6,174,www/palette/180.png
+181,Jewel,15,176,www/palette/181.png
+182,Artifice Machine 22,22,176,www/palette/182.png
+183,mordfikosz 22,22,176,www/palette/183.png
+184,pavanz 16,16,178,www/palette/184.png
+185,xaiue 22 2,22,179,www/palette/185.png
+186,Hybrid20,20,180,www/palette/186.png
+187,RISC OS,16,180,www/palette/187.png
+188,dpixel 22,22,183,www/palette/188.png
+189,Irenaart 22,22,183,www/palette/189.png
+190,Generic 8 Color,8,185,www/palette/190.png
+191,xaiue 22,22,185,www/palette/191.png
+192,drazile 22,22,187,www/palette/192.png
+193,d-jinn 22,16,188,www/palette/193.png
+194,Super17 16,22,188,www/palette/194.png
+195,haretro8,8,190,www/palette/195.png
+196,GZXP,11,190,www/palette/196.png
+197,Thomson M05,16,192,www/palette/197.png
+198,mordfikosz 11,11,194,www/palette/198.png
+199,Arne 4,4,195,www/palette/199.png
+200,BigPotato 22,22,195,www/palette/200.png
+201,Fairy Tales,8,197,www/palette/201.png
+202,Nevercreature 11,11,198,www/palette/202.png
+203,Crimso 22,22,198,www/palette/203.png
+204,Finlal 11,11,200,www/palette/204.png
+205,nevercreature 22,22,200,www/palette/205.png
+206,SpeedyCube 11,11,202,www/palette/206.png
+207,DimWiddy 22,23,203,www/palette/207.png
+208,keeling00 22,22,204,www/palette/208.png
