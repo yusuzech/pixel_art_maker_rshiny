@@ -7,7 +7,7 @@ Demo available at  https://yifyan-yusuzech.shinyapps.io/pixcel_art_converter_shi
 #### Convert a Pineapple to a Pixel Pineapple!
 <img src="github/pineapple.jpg" width="40%" ><img src="github/pixel_pineapple.jpg" width="40%" >
 
-#### App UI
+#### App
 
 Decide your configuration and start making pixel art.  
 Besides adjusting saturation,brightness, etc. There are also more than [200 palettes](https://lospec.com/palette-list) to choose from.
