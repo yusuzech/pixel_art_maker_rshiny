@@ -2,6 +2,4 @@ readme
 
 Demo available at  https://yifyan-yusuzech.shinyapps.io/pixcel_art_converter_shiny/ .
 
-![Before processing](github/pineapple.jpg =960x540)
-
-![After processing](github/pixel_pineapple.jpg)
+<img src="github/pineapple.jpg" width="40%" ><img src="github/pixel_pineapple.jpg" width="40%" >
