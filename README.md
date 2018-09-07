@@ -13,7 +13,7 @@ library(shiny)
 library(magick)
 library(dplyr)
 library(stringr)
-runGitHub("yusuzech/pixcel_art_converter_shiny")
+runGitHub("yusuzech/pixcel_art_maker_rshiny")
 ```
 
 #### App
