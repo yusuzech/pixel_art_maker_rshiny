@@ -6,6 +6,8 @@ This app makes use of `magick` library to convert any images into pixel art.
 
 **Or run this app locally:**
 
+Online demo runs on a free tier server. For better performance, I recommend run this app locally.
+
 ```r
 library(shiny)
 library(magick)
